@@ -98,8 +98,6 @@ class Login extends Component {
                 </FormGroup>
               </Col>
               <Button onClick={userAdd.bind(this)}>Sign In</Button>
-              <br />
-              <span>Not register yet, <Link to="/register">register now</Link></span>
             </Form>
           </div>)}
       </Container>
