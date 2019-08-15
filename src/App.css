@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+.background{
+  background-image: url('http://cdn.roland.com/products/tm-6_pro/features/09_tm-6_pro_kit4_gal.jpg');
+  width: 100%;
+  height: 600px;
+  /* background-repeat: repeat-x; */
+}
