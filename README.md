@@ -21,3 +21,12 @@ Read on Backend Readme for Database Information
 ### Screen Shoot
 Leaderboard
 ![alt text](https://github.com/sluxz3r/reactjs-drumApp/blob/master/src/assets/img/satu.png)
+
+Pattern
+![alt text](https://github.com/sluxz3r/reactjs-drumApp/blob/master/src/assets/img/dua.png)
+
+Update Pattern
+![alt text](https://github.com/sluxz3r/reactjs-drumApp/blob/master/src/assets/img/tiga.png)
+
+Login
+![alt text](https://github.com/sluxz3r/reactjs-drumApp/blob/master/src/assets/img/empat.png)
